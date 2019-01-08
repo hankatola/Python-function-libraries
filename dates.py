@@ -1,5 +1,3 @@
-# this is a header file with date functions that will get used a lot :)
-
 # docstring
 '''
     Contains the following date functions:
