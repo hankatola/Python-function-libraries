@@ -1,6 +1,6 @@
 # docstring
 '''
-    Contains the following probability functions:
+    Contains the following probability/mathematical functions:
     nCr()               - permutations
     binomial()          - binomial probability
     negative_binomial() - negative binomial probability
